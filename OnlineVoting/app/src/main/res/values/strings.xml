@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">onlineVoting</string>
+    <string name="fast_host_desc">Host a fast poll with customizable topics and options, no account required</string>
+    <string name="fast_join_desc">Join a fast poll to vote, no account required</string>
+    <string name="verified_host_desc">Host a verified poll with customizable topics, options, time and priority votes, signing in account required</string>
+    <string name="verified_join_desc">Join a verified poll to vote, signing in account required</string>
 </resources>
