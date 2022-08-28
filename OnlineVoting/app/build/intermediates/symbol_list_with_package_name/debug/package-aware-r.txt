@@ -2638,6 +2638,7 @@ id chain2
 id chains
 id checkbox
 id checked
+id checkfastjoinbtn
 id chip
 id chip1
 id chip2
@@ -2704,6 +2705,8 @@ id east
 id editTextTextPersonName
 id editTextTextPersonName2
 id edit_query
+id editfastpollid
+id editfastpollpass
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
 id elastic
@@ -2872,6 +2875,8 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id pollid
+id pollpass
 id position
 id postLayout
 id progress_circular
@@ -3119,6 +3124,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_fast_menu
+layout activity_join
 layout activity_login
 layout activity_main
 layout activity_verified_menu
@@ -3252,12 +3258,18 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string default_web_client_id
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string fast_host_desc
 string fast_join_desc
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -3338,6 +3350,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
 string verified_host_desc

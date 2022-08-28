@@ -11,11 +11,11 @@
 9-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:6:5-31:19
+11-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:6:5-41:19
 12        android:allowBackup="true"
 12-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.8.0] C:\Users\hp\.gradle\caches\transforms-3\07641fd7587ae5ee4e47c4b3e36a7852\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.8.0] C:\Users\hp\.gradle\caches\transforms-3\c72a45d3009f43f5cfd2e6495ad58551\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
 14-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:8:9-65
 15        android:debuggable="true"
@@ -30,59 +30,74 @@
 20-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:12:9-54
 21        android:supportsRtl="true"
 21-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:13:9-35
-22        android:theme="@style/Theme.OnlineVoting" >
-22-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:14:9-50
-23        <activity
-23-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:16:9-18:40
-24            android:name="com.example.onlinevoting.VerifiedMenu"
-24-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:17:13-41
-25            android:exported="false" />
-25-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:18:13-37
-26        <activity
-26-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:19:9-27:20
-27            android:name="com.example.onlinevoting.FastMenu"
-27-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:20:13-37
-28            android:exported="true" >
-28-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:21:13-36
-29            <intent-filter>
-29-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:22:13-26:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:23:17-69
-30-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:23:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:25:17-77
-32-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:25:27-74
-33            </intent-filter>
-34        </activity>
-35        <activity
-35-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:28:9-30:48
-36            android:name="com.example.onlinevoting.MainActivity"
-36-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:29:13-41
-37            android:exported="true" />
-37-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:30:13-36
-38
-39        <provider
-39-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-40            android:name="androidx.startup.InitializationProvider"
-40-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-41            android:authorities="com.example.onlinevoting.androidx-startup"
-41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-42            android:exported="false" >
-42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-43            <meta-data
-43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-44                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-45                android:value="androidx.startup" />
-45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-46            <meta-data
-46-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\eca32f011f2a155b5f1064a0e3a90be9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-47                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-47-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\eca32f011f2a155b5f1064a0e3a90be9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-48                android:value="androidx.startup" />
-48-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\eca32f011f2a155b5f1064a0e3a90be9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-49        </provider>
-50    </application>
-51
-52</manifest>
+22        android:testOnly="true"
+23        android:theme="@style/Theme.OnlineVoting" >
+23-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:14:9-50
+24        <activity
+24-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:16:9-24:20
+25            android:name="com.example.onlinevoting.JoinActivity"
+25-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:17:13-41
+26            android:exported="true" >
+26-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:18:13-36
+27            <intent-filter>
+27-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:19:13-23:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:20:17-69
+28-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:20:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:22:17-77
+30-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:22:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:25:9-27:39
+34            android:name="com.example.onlinevoting.VerifiedMenu"
+34-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:26:13-41
+35            android:exported="true" />
+35-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:27:13-36
+36        <activity
+36-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:28:9-32:20
+37            android:name="com.example.onlinevoting.FastMenu"
+37-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:29:13-37
+38            android:exported="true" >
+38-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:30:13-36
+39        </activity>
+40        <activity
+40-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:33:9-37:20
+41            android:name="com.example.onlinevoting.LoginActivity"
+41-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:34:13-42
+42            android:exported="true" >
+42-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:35:13-36
+43        </activity>
+44        <activity
+44-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:38:9-40:39
+45            android:name="com.example.onlinevoting.MainActivity"
+45-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:39:13-41
+46            android:exported="true" />
+46-->E:\Code C++\Github\onlineVoting\OnlineVoting\app\src\main\AndroidManifest.xml:40:13-36
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\a177228f5eaeea7ad35e2a4a3587e455\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\a177228f5eaeea7ad35e2a4a3587e455\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+50            android:authorities="com.example.onlinevoting.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\a177228f5eaeea7ad35e2a4a3587e455\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\a177228f5eaeea7ad35e2a4a3587e455\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\a177228f5eaeea7ad35e2a4a3587e455\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\a177228f5eaeea7ad35e2a4a3587e455\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\a177228f5eaeea7ad35e2a4a3587e455\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\32678596c97dd60aa646ad484ec19efc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\32678596c97dd60aa646ad484ec19efc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\32678596c97dd60aa646ad484ec19efc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>

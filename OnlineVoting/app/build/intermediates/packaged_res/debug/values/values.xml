@@ -22,8 +22,15 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">onlineVoting</string>
+    <string name="default_web_client_id" translatable="false">742919527283-k1gt2hp1crt74lsg7esjjo4ge9miu4f4.apps.googleusercontent.com</string>
     <string name="fast_host_desc">Host a fast poll with customizable topics and options, no account required</string>
     <string name="fast_join_desc">Join a fast poll to vote, no account required</string>
+    <string name="gcm_defaultSenderId" translatable="false">742919527283</string>
+    <string name="google_api_key" translatable="false">AIzaSyA2y3zdBtZrLGm-O_Sk-RkYDbrnB0HwTd4</string>
+    <string name="google_app_id" translatable="false">1:742919527283:android:f5aad5b158e6db31e50306</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA2y3zdBtZrLGm-O_Sk-RkYDbrnB0HwTd4</string>
+    <string name="google_storage_bucket" translatable="false">onlinevoting-40f41.appspot.com</string>
+    <string name="project_id" translatable="false">onlinevoting-40f41</string>
     <string name="verified_host_desc">Host a verified poll with customizable topics, options, time and priority votes, signing in account required</string>
     <string name="verified_join_desc">Join a verified poll to vote, signing in account required</string>
     <style name="Theme.OnlineVoting" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
