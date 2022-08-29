@@ -1,138 +1,154 @@
 [
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable_applelogin.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable\\applelogin.png"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_timetovote.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\timetovote.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\layout_activity_fast_menu.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\layout\\activity_fast_menu.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_votingbackground2.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\votingbackground2.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable-v24_votingbackground2.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable-v24\\votingbackground2.png"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable_google.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable\\google.png"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable_flag.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable\\flag.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable_flag.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable\\flag.png"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable\\ic_baseline_info_24.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable_applelogin.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable\\applelogin.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\layout_activity_verified_menu.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\layout\\activity_verified_menu.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\layout_activity_verified_menu.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\layout\\activity_verified_menu.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\layout_activity_join.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\layout\\activity_join.xml"
+        "merged": "com.example.onlinevoting.app-merged_res-34:/layout_activity_verified_menu.xml.flat",
+        "source": "com.example.onlinevoting.app-main-36:/layout/activity_verified_menu.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable-v24_timetovote.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable-v24\\timetovote.png"
+        "merged": "com.example.onlinevoting.app-merged_res-34:/layout_activity_join.xml.flat",
+        "source": "com.example.onlinevoting.app-main-36:/layout/activity_join.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_verifiedbackground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\verifiedbackground.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_bluebackground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\bluebackground.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable-v24_bluebackground.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable-v24\\bluebackground.png"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_votingbackground1.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\votingbackground1.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable-v24_votingbackground1.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable-v24\\votingbackground1.png"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable_custombutton.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable\\custombutton.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable_custombutton.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable\\custombutton.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_pinkbackground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\pinkbackground.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable-v24_pinkbackground.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable-v24\\pinkbackground.png"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable-v24_votingbackground3.png.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable-v24\\votingbackground3.png"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_votingbackground3.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\votingbackground3.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable_ic_baseline_info_24.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable\\ic_baseline_info_24.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\layout_activity_fast_menu.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\layout\\activity_fast_menu.xml"
     },
     {
-        "merged": "com.example.onlinevoting.app-merged_res-33:/layout_activity_join.xml.flat",
-        "source": "com.example.onlinevoting.app-main-35:/layout/activity_join.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_fastbackground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\fastbackground.png"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\drawable_ic_baseline_person_outline_24.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\drawable\\ic_baseline_person_outline_24.xml"
+        "merged": "com.example.onlinevoting.app-merged_res-34:/layout_activity_fast_menu.xml.flat",
+        "source": "com.example.onlinevoting.app-main-36:/layout/activity_fast_menu.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\layout_activity_join.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-merged_res-34:\\drawable_google.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.3.3\\com.example.onlinevoting.app-main-36:\\drawable\\google.png"
     }
 ]

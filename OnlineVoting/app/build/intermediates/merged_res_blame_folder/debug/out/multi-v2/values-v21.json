@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.onlinevoting.app-mergeDebugResources-31:/values-v21/values-v21.xml",
+            "outputFile": "com.example.onlinevoting.app-mergeDebugResources-32:/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\c72a45d3009f43f5cfd2e6495ad58551\\transformed\\core-1.8.0\\res\\values-v21\\values-v21.xml",

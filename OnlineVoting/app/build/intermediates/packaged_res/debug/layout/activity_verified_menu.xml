@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/verifiedbackground"
     tools:context=".VerifiedMenu">
     <Button
         android:id="@+id/verifiedjoinbtn"
@@ -29,12 +30,15 @@
         app:layout_constraintTop_toBottomOf="@+id/verifiedjoinbtn" />
 
     <TextView
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/editsth"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:ems="10"
         android:text="@string/verified_join_desc"
+        android:background="@color/FireBrick"
+        android:textColor="@color/WhiteSmoke"
+        android:textSize="20dp"
         app:layout_constraintBottom_toTopOf="@+id/verifiedhostbtn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -48,10 +52,13 @@
         android:layout_marginTop="16dp"
         android:ems="10"
         android:text="@string/verified_host_desc"
+        android:background="@color/FireBrick"
+        android:textColor="@color/WhiteSmoke"
+        android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/editTextTextPersonName"
+        app:layout_constraintStart_toStartOf="@+id/editsth"
         app:layout_constraintTop_toBottomOf="@+id/verifiedhostbtn"
         app:layout_constraintVertical_bias="0.14" />
 </androidx.constraintlayout.widget.ConstraintLayout>
