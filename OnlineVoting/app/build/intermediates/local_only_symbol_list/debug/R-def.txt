@@ -11,6 +11,7 @@ color teal_200
 color teal_700
 color white
 drawable applelogin
+drawable bluebackground
 drawable custombutton
 drawable flag
 drawable google
@@ -18,6 +19,11 @@ drawable ic_baseline_info_24
 drawable ic_baseline_person_outline_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable pinkbackground
+drawable timetovote
+drawable votingbackground1
+drawable votingbackground2
+drawable votingbackground3
 id button10
 id button3
 id button4
@@ -31,6 +37,7 @@ id fastjoinbtn
 id forgotpass
 id google_btn
 id imageView
+id imageView2
 id loginbtn
 id others
 id password
