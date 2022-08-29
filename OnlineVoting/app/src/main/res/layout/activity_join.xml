@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/applelogin"
     tools:context=".JoinActivity">
 
     <TextView
@@ -11,6 +12,7 @@
         android:layout_width="63dp"
         android:layout_height="23dp"
         android:text="Poll ID"
+        android:fontFamily="sans-serif"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -23,6 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:ems="10"
+        android:background="#30ffffff"
         app:layout_constraintBottom_toTopOf="@+id/pollpass"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -36,6 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:text="Poll Password"
+        android:fontFamily="sans-serif"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/pollid" />
@@ -46,6 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:ems="10"
+        android:background="#30ffffff"
         android:inputType="textPassword"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -59,6 +64,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:text="join"
+        android:background="@drawable/custombutton"
+        android:fontFamily="sans-serif"
         android:onClick="oncheckfastjoin"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
